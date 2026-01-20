@@ -1,2 +1,5 @@
 Patih sedang latihan github nihh
 membuat baris 2
+menambahkan baris 3 di branch-latihan
+menambahkan baris 4 di branch-latihan
+menambahkan baris 5 di branch-latihan
